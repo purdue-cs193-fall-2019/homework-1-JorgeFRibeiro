@@ -15,14 +15,10 @@ Syntax highlighted code block
 
 - The people teaching it
 - The content of the class
-- NO EXAMS :D
+- **NO EXAMS :D**
 - The way lectures are run in a non boring manner
 - The homework assignment
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
